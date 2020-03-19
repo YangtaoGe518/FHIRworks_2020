@@ -53,7 +53,7 @@
 
 - GET all patients: **/api/Patient**
 - GET a patient: **/api/Patient/** *patient ID*
-- GET a selected number of pages of patient: **api/pages/** *number of pages*
+- GET a selected number of pages of patient: **api/Patient/pages/** *number of pages*
 
 
 #### Observations
